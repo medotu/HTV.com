@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /login
+Disallow: /admin
+Allow: /
+
+Sitemap: https://muhammadwahdan.free.nf/sitemap.xml
