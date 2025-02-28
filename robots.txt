@@ -3,4 +3,4 @@ Disallow: /login
 Disallow: /admin
 Allow: /
 
-Sitemap: https://medotu.github.io/HTV.com/sitemap.xml
+Sitemap:medotu.github.io/HTV.com/sitemap.xml
