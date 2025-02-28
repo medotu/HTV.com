@@ -3,4 +3,4 @@ Disallow: /login
 Disallow: /admin
 Allow: /
 
-Sitemap: https://muhammadwahdan.free.nf/sitemap.xml
+Sitemap: https://medotu.github.io/HTV.com/sitemap.xml
